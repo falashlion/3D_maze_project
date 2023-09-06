@@ -1,8 +1,5 @@
 # The Maze
-
-The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world!
-
-The Maze was written was written in C ussing SDL2 library. Deveploment was performed using Ubuntu 14.04 LTS - gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
+The Maze is a 3D game built using C language and SDL2 library. It uses ray casting to render a 2D map into a 3D navigable world. The game was developed on Ubuntu 14.04 LTS using gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4. The player can move in all four directions using the W, A, S, and D keys. The game features wall collision, which prevents the player and camera rays from passing through walls. The objective of the game is to navigate through a maze and reach the end. 
 
 ### About SDL2 
 
